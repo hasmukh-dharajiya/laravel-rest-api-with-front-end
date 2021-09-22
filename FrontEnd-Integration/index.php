@@ -209,7 +209,7 @@
                                     </div>
                                     <div class="breadcomb-ctn">
                                         <h2>Data Table</h2>
-                                        <p>Welcome to Notika <span class="bread-ntd">Admin Template</span></p>
+                                        <p>Welcome to Front End <span class="bread-ntd">Project</span></p>
                                     </div>
                                 </div>
                             </div>
